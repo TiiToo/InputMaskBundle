@@ -1,5 +1,5 @@
 {
-  "name": "it/input-mask-bundle",
+  "name": "tiitoo/input-mask-bundle",
   "description": "A simple Symfony bundle that implements Form classes for RobinHerbots/Inputmask jQuery plugin ",
   "type": "symfony-bundle",
   "license": "MIT",
@@ -13,7 +13,7 @@
   ],
   "require": {
     "php": ">=5.6",
-    "symfony/framework-bundle":         "2.8.*|3.*|4.*",
+    "symfony/framework-bundle":         "2.8.*|3.*|4.*|5.*",
     "twig/twig":                        "*"
   },
   "autoload": {
